@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#1B1464;stroke-width:4;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#020202;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#ED1E79;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#2C006A;}
+	.st6{font-family:'Tangerine-Bold';}
+	.st7{font-size:96.2522px;}
+	.st8{fill:#ED1E79;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M554.37,208.75c0,0-285.55-57.75-121.92,162.02c64.74,86.95-122.26,113.32-162.02,90.64
+		c-12.37-7.06-23.14-22.31-20.05-32.89c4.94-16.91,46.52-25.85,60.16-10.43c3,3.4,6.36,9.91,4.01,15.24
+		c-7.91,17.98-77.95,16.58-87.43-8.82c-4.53-12.15,6.08-26.29,10.43-32.08c19.37-25.81,60.45-38.41,76.2-23.26
+		c6.63,6.38,9.27,18.15,5.61,27.27c-8.77,21.89-52.69,25.59-80.21,19.25c-57.94-13.34-82.42-80.13-85.82-89.84"/>
+	<polyline class="st1" points="237.09,360.56 284.18,354.13 288.48,449.48 264.51,452.75 237.77,365.56 	"/>
+	<path class="st2" d="M208.29,374.21l111.26-15.2l24.37-52.71c10.29-34.63,3.43-70.25-19.06-92.11
+		c-24.59-23.9-58.17-21.66-73.97-21.03c-17.55,0.7-68.43,3.05-89.75,43.39c-22.14,41.9,6.95,88.28,8.29,90.35L208.29,374.21z"/>
+	
+		<ellipse transform="matrix(0.9908 -0.1353 0.1353 0.9908 -33.0086 30.832)" class="st3" cx="210.25" cy="258.18" rx="13.64" ry="22.46"/>
+	
+		<ellipse transform="matrix(0.9908 -0.1353 0.1353 0.9908 -30.8741 41.1686)" class="st3" cx="287.34" cy="247.65" rx="13.64" ry="22.46"/>
+	<path class="st1" d="M267.42,298.13l-22.33,3.05c-1.29,0.18-2.31-1.09-1.85-2.32l8.41-22.36c0.48-1.29,2.21-1.52,3.01-0.4
+		l13.93,19.31C269.35,296.47,268.71,297.96,267.42,298.13z"/>
+	<line class="st2" x1="243.42" y1="340.99" x2="247.23" y2="368.89"/>
+	<line class="st2" x1="274.37" y1="336.45" x2="278.18" y2="364.35"/>
+	<path class="st4" d="M340.99,260.15l19.1-11.59c0,0-23.97-109.67-122.44-106.49S135.02,279.31,135.02,279.31s40.06,3.1,28.57,5.08
+		C152.09,286.37,216.58,60.23,340.99,260.15z"/>
+	
+		<ellipse transform="matrix(0.9908 -0.1353 0.1353 0.9908 -38.7058 23.0914)" class="st1" cx="150.47" cy="296.21" rx="17.84" ry="29.59"/>
+	
+		<ellipse transform="matrix(0.9908 -0.1353 0.1353 0.9908 -33.1911 49.842)" class="st1" cx="349.97" cy="269.03" rx="17.84" ry="29.59"/>
+	<text transform="matrix(1 0 0 1 490.5732 294.4258)" class="st5 st6 st7">keleton </text>
+	<text transform="matrix(1 0 0 1 443.0449 378.5947)" class="st5 st6 st7">Media</text>
+	<path class="st8" d="M637.38,353.12c-1.29-0.91-7.36-5.32-6.95-10.88c0.05-0.68,0.23-3.12,1.75-3.79c1.39-0.61,3.56,0.4,5.2,2.68
+		c0,0,1.8-2.74,3.81-2.43c1.62,0.26,2.39,2.17,2.5,2.43C645.55,345.71,637.96,352.6,637.38,353.12z"/>
+</g>
+</svg>
